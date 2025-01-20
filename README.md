@@ -1,6 +1,6 @@
 # Shooter Script
 
-![Image](https://github.com/user-attachments/assets/4a5f5799-4d73-4d60-a3b4-db84adc1a70d)
+![Image](https://github.com/user-attachments/assets/74854a3f-ae18-48c6-981a-3383da66708d)
 
 ## Overview
 
