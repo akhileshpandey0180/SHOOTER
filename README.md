@@ -6,6 +6,9 @@
 
 The Shooter Script is a versatile tool designed to automate various tasks such as installing updates, cloning repositories, and running specific scripts. It provides a menu-driven interface for users to select different operations, ranging from phishing tools to IP information retrieval.
 
+## Watch the Demo Video
+
+[Watch the video](https://www.youtube.com/watch?v=0ZFSjw9JvA8&t=229s)
 ## Features
 
 - **Requests & Update:** Installs necessary packages and updates the system.
